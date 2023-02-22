@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+}
+
+#igna:hover{
+    cursor: pointer;
+}
+
+span:hover{
+    cursor: pointer;
+}
+svg:hover{
+    cursor: pointer;
+}
